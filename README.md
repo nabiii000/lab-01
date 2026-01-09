@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Grace Shin>`
-- **CCID:** `<gshin1>`
+- **Full Name:** `Grace Shin`
+- **CCID:** `gshin1`
 
 ## References and Resources
 
